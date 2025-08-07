@@ -64,9 +64,9 @@ Esta mensagem de output ilustra o fluxo seguido pelo nosso programa:
 **Imagens geradas:** <br>
 
 <p align="center">
-  <img src="" alt="Imagem 1" width="300">
-  <img src="" alt="Imagem 2" width="300">
-  <img src="" alt="Imagem 3" width="300">
+  <img src="https://github.com/lucasBertuol/Reduzindo-dimensionalidade-de-imagens/blob/main/Reduzindo-dimensionalidade-de-imagens/Imagens/porsche-911-yellow_colorida.jpg?raw=true" alt="Imagem 1" width="280">  
+  <img src="https://github.com/lucasBertuol/Reduzindo-dimensionalidade-de-imagens/blob/main/Reduzindo-dimensionalidade-de-imagens/Imagens/porsche-911-yellow_cinza.png?raw=true" alt="Imagem 2" width="280">
+  <img src="https://raw.githubusercontent.com/lucasBertuol/Reduzindo-dimensionalidade-de-imagens/main/Reduzindo-dimensionalidade-de-imagens/Imagens/porsche-911-yellow_binaria.png" alt="Imagem 3" width="280">
 </p>
 <br>
 
