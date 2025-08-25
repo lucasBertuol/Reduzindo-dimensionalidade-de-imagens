@@ -74,3 +74,10 @@ Figura: Imagem colorida (RGB), em níveis de cinza (0 a 255) e preto e branca (0
 # **Conclusão**📸
 Este projeto demonstrou uma **implementação prática** de técnicas de redução de dimensionalidade para imagens, com foco nos fundamentos por trás de tarefas comuns de pré-processamento. Em vez de usar bibliotecas avançadas como a OpenCV, foi priorizada a implementação manual das funções em Python. Essa decisão tornou possível obter um **maior entendimento** de como esses processos de manipulação de imagens funcionam. 
 As técnicas exploradas são cruciais para **sistemas de visão computacional**. Elas servem como base para tarefas como detecção de bordas, segmentação de objetos e a otimização de datasets para o treinamento de redes neurais.
+
+## Contato 📧
+Estou aberto a novas conexões e críticas construtivas! Você pode me encontrar em:
+
+Email: lucascondessabertuol@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/lucasbertuol/
